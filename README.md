@@ -1,2 +1,2 @@
 # Flexbox
-Curso de Flexbox reallizado Alura
+Curso de Flexbox realizado Alura
